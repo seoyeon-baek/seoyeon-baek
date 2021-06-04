@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=wave&color=ffa2ad&height=200&section=header&text=Seoyeon&fontSize=70)
-![Seoyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyeon-baek&show_icons=true&theme=graywhite)
+![Seoyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyeon-baek&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyeon-baek&layout=compact&hide=csharp)](https://github.com/anuraghazra/github-readme-stats&theme=graywhite)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyeon-baek&layout=compact&hide=csharp)](https://github.com/anuraghazra/github-readme-stats&theme=graywhite) -->
 
 <!-- [![SolvedAC tier](http://mazassumnida.wtf/api/generate_badge?boj=Seoyeon)](https://solved.ac/trudy610)   -->
 <!-- [백준](https://www.acmicpc.net/user/koder0205) | [코드업](https://codeup.kr/userinfo.php?user=koder0205) |  [솔브드AC](https://solved.ac/profile/koder0205) -->
