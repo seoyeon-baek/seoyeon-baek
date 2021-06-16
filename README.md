@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Seoeyeon%20Baek&fontSize=70&fontColor=FFFFFF&animation=twinkling)
 ![Seoyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyeon-baek&show_icons=true&theme=dracula)
+<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="The Student Spotlight Podcast" width="350" />](https://open.spotify.com/show/48DzS7x134TsQuE7uvz9Wi)
+
+
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyeon-baek&layout=compact&hide=csharp)](https://github.com/anuraghazra/github-readme-stats&theme=graywhite) -->
 
