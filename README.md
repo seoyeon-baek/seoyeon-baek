@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=ffa2ad&height=200&section=header&text=Seoyeon&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Seoeyeon%20Baek&fontSize=70&fontColor=FFFFFF&animation=twinkling)
 ![Seoyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyeon-baek&show_icons=true&theme=dracula)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyeon-baek&layout=compact&hide=csharp)](https://github.com/anuraghazra/github-readme-stats&theme=graywhite) -->
