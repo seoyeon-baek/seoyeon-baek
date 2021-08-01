@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Seoeyeon%20Baek&fontSize=70&fontColor=FFFFFF&animation=twinkling)
-![Seoyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyeon-baek&show_icons=true&theme=dracula)
+
 <!-- <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="사이렌" width="350" /> -->
 
 
@@ -46,3 +46,4 @@ Here are some ideas to get you started:
   <a href="mailto:trudy610@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
 </p>
 <br>
+![Seoyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyeon-baek&show_icons=true&theme=dracula)
