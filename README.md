@@ -46,4 +46,5 @@ Here are some ideas to get you started:
   <a href="mailto:trudy610@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
 </p>
 <br>
+
 ![Seoyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyeon-baek&show_icons=true&theme=dracula)
